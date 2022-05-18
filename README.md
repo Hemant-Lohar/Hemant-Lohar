@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Hemant</h1>
-<br>
-<h3 align="center">A Computer Science Enthusiast</h3>
+<h3 align="center">A Computer Science Enthusiast From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
 
-- 📫 How to reach me **hemantlohar585@gmail.com**
+- 📫  Reach me here **hemantlohar585@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
 
