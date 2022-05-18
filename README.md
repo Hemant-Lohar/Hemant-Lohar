@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
+<a href="https://twitter.com/hem_lohar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/hem_lohar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hemantlohar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hemantlohar/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/The_Hemant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/The_Hemant" height="30" width="40" /></a></p>
 
