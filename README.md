@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hemant</h1>
+<h1 align="center">Hi <img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/Hi.gif" width="30px">, I'm Hemant</h1>
 <h3 align="center">A Computer Science Enthusiast From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
