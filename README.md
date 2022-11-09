@@ -4,13 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
 
+
+
+<p align="center">
+<p align="left">
 - 📫  Reach me here **hemantlohar585@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
-
-<a target="_blank" align="center">
+</p>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
-</a>
+</p>
+
 [![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
 
 <h3 align="left">Connect with me:</h3>
