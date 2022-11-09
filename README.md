@@ -11,7 +11,7 @@
 
 <h3 align="center">A Computer Science Enthusiast From India</h3>
 
-<img align="right" top="-200px" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
+<img align="right" height="200" width="267" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
 
 - 📫  Reach me here **hemantlohar585@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
