@@ -1,8 +1,6 @@
 
 <!-- <h1 align="center">Hi <img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/Hi.gif" width="30px">, I'm Hemant</h1> -->
 
-<!-- <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> -->
-
 <div align="center">
 	<br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
@@ -13,16 +11,16 @@
 
 <h3 align="center">A Computer Science Enthusiast From India</h3>
 
+<p align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
 
-
+- 📫  Reach me here **hemantlohar585@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
 
 <p align="center">
-<p align="left">
-- 📫  Reach me here **hemantlohar585@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
-</p>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
 </p>
 
