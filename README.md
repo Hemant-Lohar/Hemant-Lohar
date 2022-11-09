@@ -11,7 +11,7 @@
 
 <h3 align="center">A Computer Science Enthusiast From India</h3>
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
+<img align="right" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
 
