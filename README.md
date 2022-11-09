@@ -11,15 +11,15 @@
 
 <h3 align="center">A Computer Science Enthusiast From India</h3>
 
-<img align="right" height="200" width="267" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
-
-- 📫  Reach me here **hemantlohar585@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
+<img align="center" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
 
 [![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
 
+- 📫  Reach me here **hemantlohar585@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/hemantlohar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hemantlohar/" height="30" width="40" /></a>
