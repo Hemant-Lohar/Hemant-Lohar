@@ -8,6 +8,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
 
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 [![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
 
 <h3 align="left">Connect with me:</h3>
