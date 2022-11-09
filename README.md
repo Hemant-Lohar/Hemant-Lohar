@@ -10,9 +10,9 @@
 </div>
 
 <h3 align="center">A Computer Science Enthusiast From India</h3>
-
+<p align="center"> 
 <img align="center" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
-
+</p>
 [![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
