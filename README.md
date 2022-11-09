@@ -5,8 +5,8 @@
 
 <div align="center">
 	<br>
-	<a href="https://github.com/Hemant-Lohar/Hemant-Lohar/blame/main/header.svg">
-	<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blame/main/header.svg" width="800" height="400" alt="Click to see the source">
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
 </div>
