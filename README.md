@@ -3,7 +3,13 @@
 
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> -->
 
-<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/header.svg" width="800px" height="200px">
+<div align="center">
+	<br>
+	<a href="https://github.com/Hemant-Lohar/Hemant-Lohar/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
 <h3 align="center">A Computer Science Enthusiast From India</h3>
 
