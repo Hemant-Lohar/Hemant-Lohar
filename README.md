@@ -3,7 +3,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> -->
 
-<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.gif" width="800px" height="200px">
+<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/header.gif" width="800px" height="200px">
 
 <h3 align="center">A Computer Science Enthusiast From India</h3>
 
