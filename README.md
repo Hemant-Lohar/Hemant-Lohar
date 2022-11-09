@@ -13,12 +13,12 @@
 
 <img align="right" top="-200" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
-
 - 📫  Reach me here **hemantlohar585@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
 
 [![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
