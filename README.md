@@ -1,30 +1,37 @@
-
-<!-- <h1 align="center">Hi <img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/Hi.gif" width="30px">, I'm Hemant</h1> -->
-
+<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.svg" width="2000" height="100" alt="Hi I'm am Hemant">	
+	
+<h3 align="center">A Computer Science Enthusiast From India</h3>
 <div align="center">
-	<br>	
-		<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.svg" width="2000" height="100" alt="Hi I'm am Hemant">	
-	<br>
+<hr width="600"/>
 </div>
 
-<h3 align="center">A Computer Science Enthusiast From India</h3>
-<p align="center"> 
-<img align="center" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
+<img align="right" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
+<br/>
+<br/>
+<br/>
+
+- 📫 **How to reach me:** On any of my socials
+- 📄 **Know about my experiences at**: [Linkedin](https://www.linkedin.com/in/hemantlohar/)
+- ⚡ **Fun fact:** I am an Artist 👨‍🎨
+- ✍🏼 **You can Checkout my Drawings:** [here](https://www.instagram.com/hemant_arts/)
+
+<br />
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> 
 </p>
 
 [![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> 
-</p>
 
-- 📫  Reach me here **hemantlohar585@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/hemantlohar/](https://www.linkedin.com/in/hemantlohar/)
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/hemantlohar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hemantlohar/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/The_Hemant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/The_Hemant" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/hemantlohar/" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hemantlohar/" height="30" width="40" />
+	</a>
+<a href="https://www.hackerrank.com/The_Hemant" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/The_Hemant" height="30" width="40" />
+</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
