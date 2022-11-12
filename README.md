@@ -59,6 +59,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemant-lohar&show_icons=true&locale=en" alt="hemant-lohar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-lohar&" alt="hemant-lohar" /></p>
+
+<!-- Snake -->
+
+##🟩>🐍
+![snake gif](https://github.com/Hemant-Lohar/Hemant-Lohar/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **Hemant-Lohar/Hemant-Lohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
