@@ -64,8 +64,8 @@
 <a href ="https://github.com/Hemant-Lohar">
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Lohar&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
-<a href="https://github.com/Hemant-Lohar/ToDoApp" title="Redirect's to ToDo Repository">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hemant-Lohar&repo=leetcode&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<a href="https://github.com/Hemant-Lohar/TodoApp/tree/master" title="Redirect's to ToDo Repository">
+<img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hemant-Lohar&repo=TodoApp&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 </p>
 
