@@ -2,10 +2,8 @@
 <!-- <h1 align="center">Hi <img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/Hi.gif" width="30px">, I'm Hemant</h1> -->
 
 <div align="center">
-	<br>
-		<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/Assets/header.svg">
-			<img src="header.svg" width="2000" height="100" alt="Click to see the source">
-		</a>
+	<br>	
+		<img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.svg" width="2000" height="100" alt="Hi I'm am Hemant">	
 	<br>
 </div>
 
