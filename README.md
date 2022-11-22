@@ -1,12 +1,13 @@
 <img src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/header.svg" width="2000" height="100" alt="Hi I'm am Hemant">	
 	
-<h3 align="center">A Computer Science Enthusiast From India</h3>
 <div align="center">
-<hr width="600"/>
+	
+## A Computer Science Enthusiast From India
+
 </div>
 
-<img align="right" height="300" width="400" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
-<br/>
+<img align="right" height="280" width="500" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
+
 <br/>
 <br/>
 
@@ -44,21 +45,14 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-</p>
-
-
-<br>
-<p align="left">
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
-
+<br>
 <p align="center">
 <a href="https://github.com/Hemant-Lohar">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemant-Lohar&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
@@ -86,9 +80,12 @@
 
 <!-- Snake -->
 
+<div align="center">
+
+
 ## 🟩>🐍
 ![snake gif](https://github.com/Hemant-Lohar/Hemant-Lohar/blob/output/github-contribution-grid-snake.gif)
-
+</div>	
 <!--
 **Hemant-Lohar/Hemant-Lohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
