@@ -77,6 +77,10 @@
 </p>
 <br>
 <p align="center">
+	
+[![Hemants's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hemant-Lohar&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Hemant-Lohar)
+
+	
 <a href="https://github.com/Hemant-Lohar">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemant-Lohar&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
