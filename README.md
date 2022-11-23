@@ -6,9 +6,9 @@
 
 </div>
 
-<img align="right" height="280" width="500" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
+<img align="right" height="200" width="380" alt="GIF" src="https://github.com/Hemant-Lohar/Hemant-Lohar/blob/main/Assets/code.gif">
 
-<br/>
+
 <br/>
 
 - 📫 **How to reach me:** On any of my socials
@@ -16,13 +16,11 @@
 - ⚡ **Fun fact:** I am an Artist 👨‍🎨
 - ✍🏼 **You can Checkout my Drawings:** [here](https://www.instagram.com/hemant_arts/)
 
-<br />
-<p align="left"> 
+<p align="left"> &nbsp; &nbsp;
 <img src="https://komarev.com/ghpvc/?username=hemant-lohar&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-lohar" /> 
 </p>
 
 [![@hemantlohar's Holopin board](https://holopin.me/hemantlohar)](https://holopin.io/@hemantlohar)
-
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://leetcode.com/hemantlohar/">
