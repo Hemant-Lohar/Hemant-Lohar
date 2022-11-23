@@ -25,14 +25,37 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
+<a href="https://leetcode.com/hemantlohar/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/hemantlohar">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+<a href="mailto:hemantlohar3421@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<!-- <a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> -->
+<a href="https://instagram.com/the_hemant___">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<!-- <a href="https://kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a> -->
+<a href="https://www.hackerrank.com/The_Hemant">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+
+<!-- <p align="left"> 
 <a href="https://www.linkedin.com/in/hemantlohar/" target="blank">
 	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hemantlohar/" height="30" width="40" />
 	</a>
 <a href="https://www.hackerrank.com/The_Hemant" target="blank">
 	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/The_Hemant" height="30" width="40" />
 </a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
